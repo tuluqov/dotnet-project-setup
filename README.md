@@ -1,4 +1,4 @@
-# ProjectSetup
+# .NET Project Setup
 
 A ready-to-use template for quickly starting new .NET web API projects with essential tools pre-configured.
 
